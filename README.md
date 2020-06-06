@@ -18,3 +18,4 @@ This docker container will expect typical openstack environment variables to be 
 2. run it
 
 `docker run --rm --env-file env_file cyverse/openstack-client openstack server list`
+ 
