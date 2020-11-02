@@ -16,6 +16,7 @@ OS_AUTH_URL=https://some.example.com:35357/v3
 OS_IDENTITY_API_VERSION=3
 ```
 
+
 2. run it
 ```
 docker run --rm --env-file env_file cyverse/openstack-client openstack server list
