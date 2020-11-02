@@ -15,7 +15,7 @@ OS_PASSWORD=somepassword
 OS_AUTH_URL=https://some.example.com:35357/v3
 OS_IDENTITY_API_VERSION=3
 ```
-
+[![Supported achievements](http://achievibit.kibibit.io/achievementsShield)](https://achievibit.kibibit.io)
 
 2. run it
 ```
